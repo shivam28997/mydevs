@@ -5,7 +5,7 @@ public class Student {
 
     public void solveProblem(int count) {
         this.totalProblemSolved += count;
-        System.out.println(this.name + " solved " + totalProblemSolved + " solved");
+        System.out.println(this.name + " solved " + totalProblemSolved);
     }
 
     //Constructor
