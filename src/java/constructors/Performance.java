@@ -1,4 +1,4 @@
-package Constructors;
+package constructors;
 
 public class Performance {
     public int marks = 590;
