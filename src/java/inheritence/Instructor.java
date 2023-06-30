@@ -2,6 +2,9 @@ package inheritence;
 
 public class Instructor extends User{
 
+    String company = "X";
+
+
     /*As we are extending the User class in the Instructor class and using the properties of User
     Suppose we have constructors of both the classes the parent and the child
     Which constructor will be called first ?
